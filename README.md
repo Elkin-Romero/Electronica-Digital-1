@@ -12,3 +12,4 @@ El repositorio es público para que puedan conocer nuestro trabajo, ver lo que h
 
 # Tarea 1 Diagrama de flujo videojuego
 El siguiente apartado presenta una propuesta del posible diagrama de flujo del videojuego que se desarrollará a lo largo del semestre.
+\ imagen
