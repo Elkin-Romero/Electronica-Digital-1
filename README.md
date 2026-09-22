@@ -1,4 +1,4 @@
-# ¡Bienvenidos!
+# Descripción repositorio Digital UN
 
 En este repositorio podrán encontrar las diferentes actividades, tareas, trabajos en grupo y avances que hemos realizado durante la materia de **Electrónica Digital 1**.
 
