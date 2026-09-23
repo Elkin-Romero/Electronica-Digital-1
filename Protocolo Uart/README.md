@@ -1,1 +1,2 @@
 # Protocolo de comuncicaciòn UART
+El protocolo Transmisor Receptor Asincrono Universal (UART) se encarga de la transmisiòn y recepciòn de datos mediante sus puertos Tx y Rx. Este puede trabajar con diferentes protocolos en serie lo que implica la transmision y recepcion de datos en serie. En esta comunicaciòn, los datos se transfieren bit a bit, usando una sola lìnea o cable. Para la comunicaciòn birideccional se utilizan dos cables para la transferencia de datos en serie exitosa.
