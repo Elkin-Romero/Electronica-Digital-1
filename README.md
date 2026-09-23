@@ -9,7 +9,3 @@ Este repositorio pertenece al **grupo UART**, por lo que también encontrarán a
 El repositorio es público para que puedan conocer nuestro trabajo, ver lo que hemos realizado y seguir el proceso que hemos llevado desde el comienzo.
 
 **¡Gracias por visitar nuestro repositorio y bienvenidos!**
-
-# Tarea 1 Diagrama de flujo videojuego
-El siguiente apartado presenta una propuesta del posible diagrama de flujo del videojuego que se desarrollará a lo largo del semestre.
-\ imagen
