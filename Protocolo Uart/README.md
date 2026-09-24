@@ -6,4 +6,5 @@ El protocolo UART (Transmisor Receptor Asíncrono Universal) se encarga de la tr
 Cada dispositivo UART tiene dos lìneas:
 - Tx (Transmisor: Envìa datos 
 - Rx (Receptor): Recibe datos
+
 La conexiòn se realiza punto a punto, el Tx de un dispositivo se conecta al Rx del otro (lìneas cruzadas), y viceversa, ademàs de una tierra comùn (GND). El UART transmisor recibe los datos en forma paralela desde un bus de datos interno, los convierte a forma serial para enviarlos bit por bit por la lìnea Tx, y el UART receptor hace le proceso inverso, convierte la serial recibida de vuelta a paralelo.
